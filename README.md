@@ -6,7 +6,7 @@
 # 2.项目介绍
     参数输入游戏者的“姓名”就可以开始游戏了，根据提示出“剪刀”、“石头”、“布”即可。输入“0”退出
 # 3.使用方法
-    javac CharlesChen
+    java CharlesChen
 # 4.结果展示
     参数：CharlesChen
     结果：
