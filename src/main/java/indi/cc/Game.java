@@ -57,7 +57,7 @@ public class Game {
      */
     public void start(String playerName) {
         this.player1 = new Player(playerName);
-        System.out.println("玩家" + player1.getName() + "进入游戏，初始积分为：" + player1.getScore());
+        System.out.println("玩家 " + player1.getName() + " 进入游戏，初始积分为：" + player1.getScore());
         while (true) {
             int index_s2 = (int)(Math.random()*3);
             String s2 = this.array[index_s2];
